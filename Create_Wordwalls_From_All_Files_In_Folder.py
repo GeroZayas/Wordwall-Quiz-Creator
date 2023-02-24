@@ -23,7 +23,7 @@ rich.print("[bold yellow]HELLO! Welcome to the Wordwall Creator[/bold yellow]")
 rich.print(f"[bold blue]{line_breaker}[/bold blue]")
 
 rich.print(
-    "[bold red]Make sure the text file is in the same folder as this script![/bold red]"
+    "[bold red]Make sure the folder with all the files is in the same folder as this script![/bold red]"
 )
 rich.print(f"[bold blue]{line_breaker}[/bold blue]")
 rich.print("[bold green] -- You must have a premium Wordwall account -- [/bold green]")
