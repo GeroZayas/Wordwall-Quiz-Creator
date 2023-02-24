@@ -1,7 +1,7 @@
 # Wordwall-Quiz-Creator
 
 ## Automatic Creation of Wordwalls From All Files In A Folder CLI 
----> [LINK to code](https://github.com/GeroZayas/Python-Practice/blob/main/Create_Wordwalls_From_All_Files_In_Folder.py) <---
+---> [LINK to code](https://github.com/GeroZayas/Wordwall-Quiz-Creator/blob/master/Create_Wordwalls_From_All_Files_In_Folder.py) <---
 
 The purpose of this program is to automatically get all the vocabulary text files in a folder to create Wordwall Quizzes on the wordwall online platform in a fast and efficient manner.
 
