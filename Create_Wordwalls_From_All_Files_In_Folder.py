@@ -34,7 +34,6 @@ NAME_OF_FOLDER = input("Insert name of FOLDER: ")
 
 
 def create_worwall(file_name):
-
     start = time.time()
 
     driver = webdriver.Chrome(executable_path=CHROME_DRIVER_PATH)
@@ -60,9 +59,7 @@ def create_worwall(file_name):
 
     # select match up
 
-    driver.get(
-        "https://wordwall.net/create/entercontent?templateId=3"
-    )
+    driver.get("https://wordwall.net/create/entercontent?templateId=3")
 
     time.sleep(2)
 
@@ -159,3 +156,6 @@ print(names_of_files)
 
 for file in names_of_files:
     create_worwall(file)
+
+
+time.sleep(3)
